@@ -1,0 +1,44 @@
+{
+    "providedServices": [
+        {
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/002/327/375/small_2x/a-patient-in-a-consultation-about-body-care-illustration-free-vector.jpg",
+            "name": "Consultancy"
+        },
+        {
+            "image": "https://img.freepik.com/free-vector/illustration-characters-fixing-cogwheel_53876-40796.jpg?w=360",
+            "name": "Maintenance"
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/courier-food-delivery-service-giving-order-box-to-customer-courier-food-delivery-service-giving-order-box-to-customer-182670804.jpg",
+            "name": "Courier"
+        },
+        {
+            "image": "https://unblast.com/wp-content/uploads/2022/11/Construction-Illustration-.jpg",
+            "name": "Construction"
+        },
+        {
+            "image": "https://img.freepik.com/free-vector/group-medical-staff-carrying-health-related-icons_53876-43071.jpg",
+            "name": "Health"
+        },
+        {
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/000/660/823/small_2x/people_1_28Dance_29-01.jpg",
+            "name": "Dance & Music"
+        },
+        {
+            "image": "https://www.creativefabrica.com/wp-content/uploads/2020/10/26/fast-food-vector-illustration-Graphics-6296529-1-580x386.jpg",
+            "name": "Food & Beverages"
+        },
+        {
+            "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg",
+            "name": "Books & stationary"
+        },
+        {
+            "image": "https://img.freepik.com/premium-vector/event-planner-template-hand-drawn-cartoon-illustration-with-planning-schedule-calendar-concept_2175-7747.jpg",
+            "name": "Event Management"
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyF3HMxIAUv2tg4xP4WY3DSglrzsMad1rvr-uTeD6MWK0fDW82rEhd9fGfWti7pV8PU9k&usqp=CAU",
+            "name": "Sports"
+        }
+    ]
+}
